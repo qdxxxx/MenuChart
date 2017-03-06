@@ -1,7 +1,7 @@
 ###MenuChart
 
 #####可以设置不同角度，起始角度，不同的模块间比例。
-[![具体请移步博客地址]](http://blog.csdn.net/qian520ao/article/details/60509040)  
+具体请移步博客地址：[http://blog.csdn.net/qian520ao/article/details/60509040](http://blog.csdn.net/qian520ao/article/details/60509040)   
 
 
 ###二、效果图
